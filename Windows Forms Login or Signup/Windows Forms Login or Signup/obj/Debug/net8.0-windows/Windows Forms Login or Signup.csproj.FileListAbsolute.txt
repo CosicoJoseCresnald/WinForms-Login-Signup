@@ -1,0 +1,16 @@
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\bin\Debug\net8.0-windows\Windows Forms Login or Signup.exe
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\bin\Debug\net8.0-windows\Windows Forms Login or Signup.deps.json
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\bin\Debug\net8.0-windows\Windows Forms Login or Signup.runtimeconfig.json
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\bin\Debug\net8.0-windows\Windows Forms Login or Signup.dll
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\bin\Debug\net8.0-windows\Windows Forms Login or Signup.pdb
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows_Forms_Login_or_Signup.Form1.resources
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.csproj.GenerateResource.cache
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.AssemblyInfoInputs.cache
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.AssemblyInfo.cs
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.csproj.CoreCompileInputs.cache
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.dll
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\refint\Windows Forms Login or Signup.dll
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.pdb
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\Windows Forms Login or Signup.genruntimeconfig.cache
+F:\vsc codes\Windows Forms Login or Signup\Windows Forms Login or Signup\obj\Debug\net8.0-windows\ref\Windows Forms Login or Signup.dll
